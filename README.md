@@ -12,12 +12,15 @@ in region detection (0.97 accuracy and 0.99 ROC AUC), and cell detection and cel
 0.78 F1-score, Log-average miss rate of 0.31). HCT has potential to revolutionize hematopathology diagnostic
 workflows, leading to more cost-effective, accurate diagnosis and opening the door to precision medicine.
 
-![cytology work](image.png)
+[![cytoloy work](image-1.png)](https://kimialab.uwaterloo.ca/kimia/index.php/roi-detection-and-cell-detection-and-classification-in-bone-marrow-cytology/)
 
-[See image source at Kimia Lab](https://kimialab.uwaterloo.ca/kimia/index.php/data-and-code-2/)
+[![cytology work](image.png)](https://kimialab.uwaterloo.ca/kimia/index.php/roi-detection-and-cell-detection-and-classification-in-bone-marrow-cytology/)
+
+[See images source at Kimia Lab](https://kimialab.uwaterloo.ca/kimia/index.php/roi-detection-and-cell-detection-and-classification-in-bone-marrow-cytology/)
 ### Useful Links
-- [Paper](https://arxiv.org/pdf/2107.02293.pdf)
-- [Learn more on Kimia Lab](https://kimialab.uwaterloo.ca/kimia/index.php/data-and-code-2/)
+- [Read the paper](https://arxiv.org/pdf/2107.02293.pdf)
+- [Learn more on Kimia Lab](https://kimialab.uwaterloo.ca/kimia/index.php/roi-detection-and-cell-detection-and-classification-in-bone-marrow-cytology/)
+
 ### Disclaimer
 Rhazes Lab does not own the code in this repository. This code and data were produced in Kimia Lab at the University of Waterloo. The code is provided as-is without any guarantees, and is stored here as part of Kimia Lab's history. We welcome questions and comments.
 
